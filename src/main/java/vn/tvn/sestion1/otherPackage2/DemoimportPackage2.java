@@ -8,5 +8,6 @@ public class DemoimportPackage2 {
     public  static void main(String[] args) {
         DemoImportPackage demoImportPackage = new DemoImportPackage();
         SamePackage samePackage = new SamePackage();
+
     }
 }
