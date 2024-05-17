@@ -4,9 +4,7 @@ import vn.tvn.sestion1.otherPackage.DemoImportPackage;
 
 public class SamePackage {
 
-
-    public static void main(String[] args) {
-        DemoImportPackage demoImportPackage =
-                new DemoImportPackage();
-    }
+public void samePackage() {
+    System.out.println("DONE");
+}
 }
