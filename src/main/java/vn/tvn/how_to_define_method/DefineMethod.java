@@ -1,8 +1,8 @@
-package vn.tvn.how.to.define.method;
+package vn.tvn.how_to_define_method;
 
 public class DefineMethod {
 
-//1.public
+    //1.public
     //2. void: method ko tra ve gtri nào
     //3. method_name: tên của method
     //4 (...) parameters: là giá trị đưa vào để xử lý

@@ -1,8 +1,11 @@
 package vn.tvn.data.type;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class IntegerDemo   {
     //byte, short, int, long
-    //4 type trên đều là số nguyeen, khac nhau o do luu trữ
+    //4 type trên đều là số nguyeen, khac nhau ở độ luu trữ
 
     public static void main(String[] args) {
          byte age = 10; // co gtri tuw -128 den 127
@@ -30,6 +33,9 @@ public class IntegerDemo   {
 
         long totalSalary = 800000000;
         Long longObject = 80000L;
+
+//        List<Short> listABC = new ArrayList<int>();
+//        listABC.add(ShortObject);
 
 
 

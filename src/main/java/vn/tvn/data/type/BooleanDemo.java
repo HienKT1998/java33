@@ -19,6 +19,6 @@ public class BooleanDemo {
         boolean value = objectBoolean.booleanValue();
         /** Ve nh tim hieu :Method duoi ( Boolean. ) dung lam gi*/
         // Boolean.
-//        boolean parseValue = Boolean.parseBoolean(s:)
+        boolean parseValue = Boolean.parseBoolean("true");
     }
 }
