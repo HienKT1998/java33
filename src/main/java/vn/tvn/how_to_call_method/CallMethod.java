@@ -33,6 +33,8 @@ public class CallMethod {
     // từ method no static call other method;
     //--> no cần add static
     //new object gọi nếu khác class
+
+
 }
 
 
